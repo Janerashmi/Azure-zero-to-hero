@@ -26,9 +26,33 @@ Availability Zones are isolated locations within a region that have their own po
 
 Scalability is the ability of a system to handle an increasing amount of work or its potential to be enlarged to accommodate that growth.
 
+Definition:
+Scalability is the ability of a system to handle increased workload by adding more resources (like CPU, memory, storage, or more machines).
+
+Types:
+
+Vertical scaling (scale up): Add more power (CPU, RAM) to an existing machine.
+
+Horizontal scaling (scale out): Add more machines/servers to distribute the load.
+
+Example:
+Your e-commerce site gets more users during holidays. You scale out by adding more servers to handle the extra traffic.
+
+Goal:
+Handle growth efficiently without performance drops.
+
 ## Elasticity
 
 Elasticity in cloud computing refers to the ability to dynamically scale resources up or down based on demand.
+
+Definition:
+Elasticity is the ability of a system to automatically scale resources up or down based on current demand.
+
+Example:
+A video streaming service automatically adds servers when many users are watching, and removes them when traffic drops—so you're not paying for unused resources.
+
+Goal:
+Optimize cost and performance by using only what you need, when you need it.
 
 ## Agility
 
@@ -37,6 +61,15 @@ Agility is the capability of quickly and easily adapting to changes. In the cont
 ## High Availability
 
 High Availability (HA) ensures that a system or application is operational and accessible for a high percentage of time, typically 99.9% or higher.
+
+Definition:
+Agility is the ability of a system or organization to adapt quickly to changes, such as market demands, customer needs, or technology shifts.
+
+Example:
+A company quickly launches a new feature or product because its IT infrastructure (like cloud services) allows rapid development and deployment.
+
+Goal:
+Move fast and respond to changes or opportunities.
 
 ## Fault Tolerance
 
