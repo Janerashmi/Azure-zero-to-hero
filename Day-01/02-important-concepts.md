@@ -7,6 +7,8 @@ Virtualization is the process of creating a virtual version of something, such a
 ## Virtual Machine
 
 A Virtual Machine (VM) is a software-based emulation of a physical computer. It allows running multiple operating systems on a single physical machine.
+OR
+A virtual machine (VM) is a software-based simulation of a physical computer. It runs an operating system and applications just like a real computer, but it's hosted inside another system—your real, physical computer—using a special program called a hypervisor.
 
 ## API (Application Programming Interface)
 
